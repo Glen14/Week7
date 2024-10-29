@@ -1,0 +1,17 @@
+{
+    "name": "glenc/week7",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Glen14",
+            "email": "glencorreia36@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.7"
+    }
+}

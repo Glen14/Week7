@@ -1,0 +1,2 @@
+[2024-10-29T03:10:12.953050+01:00] appLogger.INFO: This is a test info message [] []
+[2024-10-29T03:10:12.964729+01:00] appLogger.ERROR: This is a test error message [] []
